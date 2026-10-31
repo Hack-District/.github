@@ -1,7 +1,4 @@
-<a href="https://frontierhacks.com"><img src="https://raw.githubusercontent.com/Hack-District/.github/main/profile/assets/frontierhacks-moon-landing.png" width="100%" alt="Pixel-art astronaut on the Moon beside a black FrontierHacks flag, with the lunar module, bootprints, and long shadows across the monochrome surface." /></a>
-
-<h1 align="center">HACK DISTRICT</h1>
-<p align="center"><b>Build beyond the familiar.</b></p>
+<img src="https://raw.githubusercontent.com/Hack-District/.github/main/profile/assets/mission-control.svg" width="100%" alt="Hack District — Build beyond the familiar. Monochrome pixel moon, stars, and lunar horizon." />
 
 <p align="center"><a href="https://frontierhacks.com">FRONTIERHACKS ↗</a> · <a href="https://luma.com/6vb82jnj">ZERO TO DEMO ↗</a> · <a href="https://discord.gg/XfrNbzDbG">JOIN THE CREW ↗</a></p>
 
