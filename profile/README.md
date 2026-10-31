@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hack-District/.github/main/profile/assets/mission-control.svg" width="100%" alt="Hack District — Build beyond the familiar. A monochrome lunar landscape and starfield." />
-</p>
+<picture>
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Hack-District/.github/main/profile/assets/mission-mobile.svg" />
+  <img src="https://raw.githubusercontent.com/Hack-District/.github/main/profile/assets/mission-desktop.svg" width="100%" alt="Hack District — Build beyond the familiar. Animated lunar mission control." />
+</picture>
+
+<p align="center"><a href="#01--the-district">THE DISTRICT</a> · <a href="#02--choose-your-mission">MISSIONS</a> · <a href="#03--from-pixels-to-circuits">THE LAB</a> · <a href="#05--find-your-orbit">JOIN THE CREW</a></p>
 
 <p align="center">
   <a href="https://frontierhacks.com"><img src="https://img.shields.io/badge/EXPLORE-FRONTIERHACKS-f5f5f5?style=for-the-badge&labelColor=111111" alt="Explore FrontierHacks" /></a>
@@ -20,11 +23,10 @@ From **Zero to Demo**, presented with **NemulAI**, to the next chapter at **Fron
 
 **Come with curiosity. Find your people. Give the idea a first version.**
 
-### 02 / OUR MISSIONS
+### 02 / CHOOSE YOUR MISSION
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<details open>
+<summary><b>◇ MISSION 01 — ZERO TO DEMO / Open briefing</b></summary>
 
 #### ◇ ZERO TO DEMO
 
@@ -38,8 +40,10 @@ Come solo or with a team. Explore an idea, get feedback, and build toward someth
 
 [Event details & registration ↗](https://luma.com/6vb82jnj)
 
-</td>
-<td width="50%" valign="top">
+</details>
+
+<details open>
+<summary><b>✦ MISSION 02 — FRONTIERHACKS / Open briefing</b></summary>
 
 #### ✦ FRONTIERHACKS
 
@@ -53,9 +57,19 @@ Meet collaborators, experiment with an idea, and bring your project to the demo 
 
 [Explore the website ↗](https://frontierhacks.com) · [Luma ↗](https://luma.com/vcnvkluj)
 
-</td>
-</tr>
-</table>
+</details>
+
+<details>
+<summary><b>＋ FIRST HACKATHON? Open your launch checklist</b></summary>
+
+- **Start with a question.** What could be easier, more useful, or more fun?
+- **Find your crew.** Bring a teammate or meet people at the event.
+- **Keep the first version small.** One clear idea beats ten unfinished features.
+- **Make it demonstrable.** Show what works, what you learned, and what comes next.
+
+Zero to Demo welcomes beginners; no coding experience is required. Check each event page for its own details.
+
+</details>
 
 ### 03 / FROM PIXELS TO CIRCUITS
 
@@ -71,7 +85,16 @@ Our GitHub is home to the work behind the events, too.
 
 ### 04 / HOW WE BUILD
 
-	take an idea  →  find your crew  →  make a prototype  →  show the demo  →  keep going
+**01** Find an idea → **02** Find your people → **03** Build → **04** Demo → **05** Repeat
+
+<details>
+<summary><b>⌘ Open the builder’s field notes</b></summary>
+
+**Automate** the repetitive. **Create** something unexpected. Build for **Impact**. Explore the **Frontier**.
+
+Those are Zero to Demo’s four tracks — four different starting points for the same question: *what can you make real?*
+
+</details>
 
 <p>
   <img src="https://img.shields.io/badge/AI-EXPERIMENTS-171717?style=flat-square&labelColor=404040" alt="AI experiments" />
@@ -86,6 +109,22 @@ Our GitHub is home to the work behind the events, too.
 - **Build with us:** explore [Zero to Demo](https://luma.com/6vb82jnj) and [FrontierHacks](https://frontierhacks.com).
 - **Meet the community:** join the conversation on [Discord](https://discord.gg/XfrNbzDbG).
 - **Partner or mentor:** help with tools, time, prizes, or a place to gather. [Partner with FrontierHacks ↗](https://frontierhacks.com/sponsors/)
+
+<details>
+<summary><b>✧ Receive a transmission from the moon</b></summary>
+
+```text
+> establishing connection ...
+> origin: bay area, earth
+> destination: the next frontier
+> payload: one idea that will not leave you alone
+> crew status: there is room for you
+> next command: build something
+```
+
+[Join the crew ↗](https://discord.gg/XfrNbzDbG)
+
+</details>
 
 ---
 
