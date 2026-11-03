@@ -1,0 +1,12 @@
+{
+  "name": "hack-district-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "art:render": "node scripts/render-art.mjs"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "github-markdown-css": "^5.9.0"
+  }
+}
