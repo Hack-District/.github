@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/Hack-District/.github/main/profile/assets/v2/welcome-wide.webp" width="100%" alt="Hack District — a community for people who build. A lunar workbench with a laptop, electronic badge, and camera-eye rover." />
 </picture>
 
-<p><a href="https://luma.com/6vb82jnj">Zero to Demo</a> · <a href="https://frontierhacks.com">FrontierHacks</a> · <a href="#community">Community</a></p>
+<p><a href="https://luma.com/6vb82jnj">Zero to Demo</a> · <a href="https://frontierhacks.com">FrontierHacks</a> · <a href="https://discord.gg/XfrNbzDbG">Discord</a></p>
 
 ## A community for people who build.
 
